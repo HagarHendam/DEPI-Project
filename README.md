@@ -121,7 +121,7 @@ The repository includes a full documentation file covering:
 ## 🛠️ Tools & Technologies
 - Power BI
 - DAX
-- Excel / CSV
+- Excel 
 - Power Query
 - Git & GitHub
 - Markdown Documentation
